@@ -4,7 +4,7 @@ function initCamera() {
           $('#camera-canvas'),
           $('#camera-button'));
   
-  disableCamera();
+ 
   // For Reference:
   // capture($('#camera-video'),
   //       $('#camera-canvas'),
